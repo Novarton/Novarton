@@ -7,10 +7,6 @@
   Me encanta construir aplicaciones web robustas y explorar la cultura DevOps para optimizar el ciclo de vida del desarrollo.
 </p>
 
-<p align="left">
-  Actualmente estoy <strong>buscando activamente una oportunidad de estancia/estadía profesional</strong> donde pueda aplicar mis habilidades en un entorno real, aprender de un gran equipo y contribuir a proyectos desafiantes.
-</p>
-
 ---
 
 ### Mi Enfoque Actual

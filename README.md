@@ -50,7 +50,7 @@
   <a href="[TU-PORTAFOLIO-URL]" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio_Web-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio">
   </a>
-  <a href="[TU-LINKEDIN-URL]" target="_blank">
+  <a href="www.linkedin.com/in/adrian-gallardo-27913a390" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:[TU-EMAIL@gmail.com]">
@@ -63,6 +63,6 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Novarton&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novarton&layout=compact&langs_count=8&theme=transparent"/>
 </p>
